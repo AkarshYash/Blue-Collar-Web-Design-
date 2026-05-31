@@ -272,6 +272,10 @@ bluecollar-chatbot/
 └── docker-compose.yml
 ```
 
+# Video Demo
+
+https://drive.google.com/file/d/1Q45-azbInJQ6QVOnnhaSdOGoDT4tVv4U/view?usp=sharing
+
 ---
 
 ## 📝 License
