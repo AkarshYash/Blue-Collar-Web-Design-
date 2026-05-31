@@ -272,9 +272,29 @@ bluecollar-chatbot/
 └── docker-compose.yml
 ```
 
-# Video Demo
+## 🎥 Video Demo
 
-https://drive.google.com/file/d/1Q45-azbInJQ6QVOnnhaSdOGoDT4tVv4U/view?usp=sharing
+<div align="center">
+  <a href="https://drive.google.com/file/d/1Q45-azblnJQ6QVOnnhaSdGOoDT4tVv4U/view?usp=sharing" target="_blank">
+    <img src="https://img.shields.io/badge/▶️_WATCH_DEMO_ON_DRIVE-FF0000?style=for-the-badge&logo=googledrive&logoColor=white" alt="Watch Demo">
+  </a>
+</div>
+
+<br>
+
+<div align="center">
+  <a href="https://drive.google.com/file/d/1Q45-azblnJQ6QVOnnhaSdGOoDT4tVv4U/view?usp=sharing" target="_blank">
+    <img src="https://placehold.co/1280x720/0a0a0f/ffffff?text=🎬+SAHAYAK+v2+DEMO+▶+Click+to+Play" 
+         alt="Sahayak AI Chatbot Demo"
+         style="border-radius: 16px; border: 1px solid #333; max-width: 100%; box-shadow: 0 10px 30px rgba(0,0,0,0.3);"
+         width="800">
+  </a>
+</div>
+
+<div align="center">
+  <br>
+  <i>📌 Full demo: Dashboard • Chat • Analytics • Fraud detection • Dark mode</i>
+</div>
 
 ---
 
